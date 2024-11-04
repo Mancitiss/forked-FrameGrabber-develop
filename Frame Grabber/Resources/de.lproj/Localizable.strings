@@ -1,0 +1,308 @@
+/* Feedback email subject */
+"about.email-subject" = "Frame Grabber: Feedback";
+
+/* Share App button title and accessibility label */
+"about.share-app" = "App Teilen";
+
+/* Text shared alongside the App Store URL when sharing the app */
+"about.share-app-text" = "Lade Frame Grabber im App Store";
+
+/* Version label with numerical version */
+"about.attribution-format" = "Arthur Hammer – Version %@";
+
+"about.donate" = "Spenden";
+"about.rate" = "Bewerten";
+
+/* Cancel action */
+"action.cancel" = "Abbrechen";
+
+/* Delete context action */
+"action.delete" = "Löschen";
+
+/* Favorite context action */
+"action.favorite" = "Favorit";
+
+/* Ok action */
+"action.ok" = "OK";
+
+/* Open settings action */
+"action.settings" = "Einstellungen";
+
+/* Unfavorite context action */
+"action.unfavorite" = "Kein Favorit";
+
+/* Empty album message */
+"album.empty.any" = "Keine Videos oder Live Photos";
+
+/* No live photos in album message */
+"album.empty.livePhoto" = "Keine Live Photos";
+
+/* No videos in album message */
+"album.empty.video" = "Keine Videos";
+
+/* Title of album view as aspect ratio settings menu item */
+"album.viewSettings.fitGrid.title" = "Aspekt";
+
+/* Title of album view as squares settings menu item */
+"album.viewSettings.squareGrid.title" = "Quadrat";
+
+/* User photo albums section header */
+"albums.header.useralbum" = "Meine Alben";
+
+/* Alert message when the recording authorization is denied or restricted.. */
+"alert.camera.denied.message" = "Du hast Frame Grabber den Zugriff auf deine Kamera nicht erlaubt.";
+
+/* Alert title when the recording authorization is denied or restricted. */
+"alert.camera.denied.title" = "Kein Kamerazugriff";
+
+/* Alert message when the video recording failed for any reason */
+"alert.camera.failed.message" = "Bei der Aufnahme ist ein Fehler aufgetreten.";
+
+/* Alert title when the video recording failed for any reason. */
+"alert.camera.failed.title" = "Kein Video";
+
+/* Alert message when the current device cannot record videos. */
+"alert.camera.unavailable.message" = "Dieses Gerät kann keine Videos aufnehmen.";
+
+/* Alert title when the current device cannot record videos. */
+"alert.camera.unavailable.title" = "Kamera nicht verfügbar";
+
+/* No comment provided by engineer. */
+"alert.filePicker.message" = "Beim Importieren ist ein Fehler aufgetreten.";
+
+/* No comment provided by engineer. */
+"alert.filePicker.title" = "Video konnte nicht geöffnet werden.";
+
+/* No comment provided by engineer. */
+"alert.frameexport.message" = "Beim Erstellen des Bildes ist ein Fehler aufgetreten.";
+
+/* No comment provided by engineer. */
+"alert.frameexport.title" = "Export nicht möglich";
+
+/* E-mail address */
+"alert.mail.message" = "Du kannst mich via %@ erreichen.";
+
+/* No comment provided by engineer. */
+"alert.mail.title" = "Dieses Gerät kann keine E-Mails senden";
+
+/* No comment provided by engineer. */
+"alert.playback.message" = "Es ist ein Fehler aufgetreten.";
+
+/* No comment provided by engineer. */
+"alert.playback.title" = "Wiedergabe nicht möglich";
+
+/* No comment provided by engineer. */
+"alert.saveToPhotos.message" = "Das Bild konnte nicht in deiner Fotomediathek gespeichert werden.";
+
+/* No comment provided by engineer. */
+"alert.saveToPhotos.title" = "Speichern nicht möglich.";
+
+/* No comment provided by engineer. */
+"alert.videoload.message" = "Es ist kein Netzwerk vorhanden oder das Format wird nicht unterstützt.";
+
+/* No comment provided by engineer. */
+"alert.videoload.title" = "Laden nicht möglich";
+
+/* Photo library authorization denied action. */
+"authorization.denied.action" = "Einstellungen Öffnen";
+
+/* Photo library authorization denied message */
+"authorization.denied.message" = "Frame Grabber arbeitet mit Videos und Live Photos aus deiner Fotomediathek. Du kannst den Zugriff in den Einstellungen erlauben.";
+
+/* Photo library authorization default action */
+"authorization.undetermined.action" = "Los Geht's";
+
+/* Photo library authorization default message */
+"authorization.undetermined.message" = "Frame Grabber arbeitet mit Videos und Fotos in deiner Fotomediathek. Los geht's, indem du den Zugriff erlaubst.";
+
+/* Title for the metadata section. */
+"editor.detail.metadata.title" = "Metadaten";
+
+/* Title for the settings section. */
+"editor.detail.settings.title" = "Einstellungen";
+
+/* Title for the fine speed in the speed menu. */
+"editor.menu.speed.fine.action" = "0,1 ×";
+
+/* Title for the half speed in the speed menu. */
+"editor.menu.speed.half.action" = "0,5 ×";
+
+/* Title for the normal speed in the speed menu. */
+"editor.menu.speed.normal.action" = "1 ×";
+
+/* Title for the quarter speed in the speed menu. */
+"editor.menu.speed.quarter.action" = "0,25 ×";
+
+/* Title for the speed menu. */
+"editor.menu.speed.title" = "Scrubbing- und Abspieltempo";
+
+/* Title for the very fine speed in the speed menu. */
+"editor.menu.speed.veryFine.action" = "Schnecke";
+
+/* Editor more button export settings action */
+"editor.more.exportSettings.action" = "Einstellungen";
+
+/* Editor more button metadata button action */
+"editor.more.metadata.action" = "Metadaten";
+
+/* Title for the share sheet export setting. */
+"export.showShareSheet.action" = "Share-Sheet öffnen";
+
+/* Explanation of what the frame number time format does. */
+"exportsettings.frameNumber.footer" = "Minuten, Sekunden und Framenummer relativ zu der aktuellen Sekunde. \n\nFür größere Videos kann es etwas dauern, bis die Framenummern verfügbar sind.";
+
+/* Explanation about lossy compression */
+"exportsettings.imageFormat.jpeg.footer" = "Eine geringere Kompressionsqualität führt zu einer kleineren Dateigröße mit leicht reduzierter Bildqualität.";
+
+/* Explanation about lossless compression. */
+"exportsettings.imageFormat.png.footer" = "PNG nutzt immer die volle Qualität.";
+
+/* Explanation of what the milliseconds time format does. */
+"exportsettings.milliseconds.footer" = "Minuten, Sekunden und Millisekunden.";
+
+/* Title for the save to photo library export setting. */
+"exportsettings.saveToPhotos.action" = "In Fotos speichern";
+
+/* Explanation of what the save to photos setting does */
+"exportsettings.saveToPhotos.footer" = "Speichert Fotos in deiner Fotomediathek und fügt sie dem Album „Frame Grabber“ hinzu.";
+
+/* Explanation of what the share sheet setting does */
+"exportsettings.showShareSheet.footer" = "Sende Fotos direkt an AirDrop, Instagram, WhatsApp und viele weitere Apps.";
+
+/* Video frame rate with unit */
+"formatter.framerate.format" = "%@ fps";
+
+/* Video pixel size with unit */
+"formatter.videodimensions.format" = "%1$@ × %2$@ px";
+
+/* Title for Camera button */
+"library.menu.import.camera.action" = "Video aufnehmen";
+
+/* Title for Open Files button. */
+"library.menu.import.file.action" = "Datei öffnen";
+
+/* Title for limited authorization menu. */
+"library.menu.import.limited.title" = "Du hast Frame Grabber Zugriff auf ausgewählte Videos erteilt.";
+
+/* Action of limited authorization menu: Open settings to change authorization. */
+"library.menu.limited.openSettings.action" = "Einstellungen";
+
+/* Action of limited authorization menu: Show limited photos picker. */
+"library.menu.limited.selectPhotos.action" = "Weitere Videos auswählen";
+
+/* Title for the library when no specific album is selected. */
+"library.title.default" = "Videos";
+
+/* Title for the library when photo library access is limited. */
+"library.title.limited" = "Ausgewählte Videos";
+
+/* Title for the codec metadata. */
+"metadata.codec.title" = "Codec";
+
+/* Title for the creation date metadata. */
+"metadata.creationDate.title" = "Erstellt";
+
+/* Live Photo: Title for the dimensions metadata of the picture component */
+"metadata.dimensions.livePhoto.title" = "Größe Foto";
+
+/* Video: Title for the dimensions metadata. */
+"metadata.dimensions.title" = "Größe";
+
+/* Live Photo: Title for the dimensions metadata of the video component. */
+"metadata.dimensions.video.title" = "Größe Video";
+
+/* Title for the duration metadata. */
+"metadata.duration.title" = "Länge";
+
+/* Title for the file format metadata. */
+"metadata.format.title" = "Art";
+
+/* Title for the frame rate metadata. */
+"metadata.frameRate.title" = "Bildrate";
+
+/* Title for the camera make metadata. */
+"metadata.make.title" = "Gerätemarke";
+
+/* Title of map item to be opened in Maps app. */
+"metadata.mapItem.title" = "Aufnahmeort";
+
+/* Title for the camera model metadata. */
+"metadata.model.title" = "Gerätemodell";
+
+/* Title for the file size metadata. */
+"metadata.size.title" = "Dateigröße";
+
+/* Title for the software metadata. */
+"metadata.software.title" = "Software";
+
+/* Live Photo: Value for the video type metadata. */
+"metadata.type.livePhoto" = "Live Photo";
+
+/* Title for the video type metadata. */
+"metadata.type.title" = "Typ";
+
+/* Video: Value for the video type metadata item. */
+"metadata.type.video" = "Video";
+
+/* Frame generation progress title when saving to Photos. */
+"progress.export.saveToPhotos.title" = "In Fotos speichern…";
+
+/* Frame generation progress title when showing the share sheet. */
+"progress.export.shareSheet.title" = "Exportieren…";
+
+/* Video loading (iCloud or otherwise) progress title. */
+"progress.videoLoad.title" = "Laden…";
+
+/* Body: Donation screen explanation. */
+"purchase.body" = "Damit du im Handumdrehen deine besten Bilder speichern kannst.\n\nEine Spende hilft riesig.";
+
+/* Alert message: Nothing to restore, the user has not previously purchased anything. */
+"purchase.nothing-to-restore-message" = "Keine vergangenen Spenden gefunden. Sollte etwas nicht stimmen, wende dich bitte an den Entwickler.";
+
+/* Button: Purchase a donation */
+"purchase.purchase" = "Spenden";
+
+/* Alert title: Purchase failed. */
+"purchase.purchase-failed" = "Kauf hat nicht geklappt.";
+
+/* Alert message: The purchase can't proceed because the product has not yet been fetched, usually due to network errors. */
+"purchase.purchased-failed-message" = "Der Kontakt mit dem App Store wurde unterbrochen.";
+
+/* Button: Restore past purchases */
+"purchase.restore" = "Wiederherstellen";
+
+"purchase.restoring" = "Wiederherstellen…";
+
+/* Button: Donation already purchased, fires confettit */
+"purchase.thankyou" = "🎉";
+
+/* Title: Donation screen */
+"purchase.title" = "Diese App ist für dich.";
+
+/* Title: Donation already purchased */
+"purchase.title-purchased" = "Danke für deine Spende";
+
+/* Alert message: The user is not authorized to make payments. */
+"purchase.unauthorized-message" = "Käufe sind auf diesem Gerät nicht erlaubt.";
+
+/* The frame number format, used for display (but not for actual formatting). */
+"settings.frameNumber.format" = "mm:ss.ff";
+
+/* Title for the frame number time format setting. */
+"settings.frameNumber.title" = "Frames";
+
+/* The milliseconds format, used for display (but not for actual formatting). */
+"settings.milliseconds.format" = "mm:ss,SSS";
+
+/* Title for the milliseconds time format setting. */
+"settings.milliseconds.title" = "Millisekunden";
+
+/* Video filter title, all items */
+"videofilter.all" = "Alles";
+
+/* Video filter title, only Live Photos */
+"videofilter.livePhoto" = "Live Photos";
+
+/* Video filter title, only videos */
+"videofilter.video" = "Videos";
+
